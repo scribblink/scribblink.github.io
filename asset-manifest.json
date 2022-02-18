@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scribblink.github.io/static/css/main.bca2956b.css",
+    "main.js": "/scribblink.github.io/static/js/main.6cf77a55.js",
+    "static/js/787.61f5e61e.chunk.js": "/scribblink.github.io/static/js/787.61f5e61e.chunk.js",
+    "index.html": "/scribblink.github.io/index.html",
+    "main.bca2956b.css.map": "/scribblink.github.io/static/css/main.bca2956b.css.map",
+    "main.6cf77a55.js.map": "/scribblink.github.io/static/js/main.6cf77a55.js.map",
+    "787.61f5e61e.chunk.js.map": "/scribblink.github.io/static/js/787.61f5e61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca2956b.css",
+    "static/js/main.6cf77a55.js"
+  ]
+}
